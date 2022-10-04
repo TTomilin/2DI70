@@ -1,0 +1,7 @@
+# Project exclude paths
+/data/*
+/.idea/*
+knn_restructured/.idea/*
+/knn_restructured/data/*
+*.csv
+
